@@ -204,9 +204,8 @@ Este proyecto está bajo la Licencia ISC. Ver el archivo `LICENSE` para más det
 
 **Javier Berchtold** - *JEB$DEV*
 
-- **GitHub**: [@tu-usuario](https://github.com/tu-usuario)
-- **LinkedIn**: [Javier Berchtold](https://linkedin.com/in/javier-berchtold)
-- **Portfolio**: [jebdev.com](https://jebdev.com)
+- **GitHub**: [JEB$DEV](https://github.com/JEB76-22?tab=repositories)
+- **Correo**: *j.e.b.inter@gmail.com*
 
 ## 🙏 Agradecimientos
 
@@ -218,9 +217,8 @@ Este proyecto está bajo la Licencia ISC. Ver el archivo `LICENSE` para más det
 
 ¿Tienes alguna pregunta o sugerencia? No dudes en contactarme:
 
-- **Email**: javier@jebdev.com
-- **Twitter**: [@jebdev](https://twitter.com/jebdev)
-- **Discord**: JEB$DEV#1234
+- **Email**: *j.e.b.inter@gmail.com*
+- **Tel**: 54+2616667047
 
 ---
 
