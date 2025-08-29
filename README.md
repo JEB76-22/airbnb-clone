@@ -5,6 +5,19 @@
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)](https://gulpjs.com/)
 
+## 🌐 Demo en Vivo
+**Visita el sitio web:** [Airbnb-clone](https://viajes-2025.netlify.app/)
+
+
+## 📸 Capturas de Pantalla
+![Vista Principal](build/img/airbnb.png)
+![Vista Principal](build/img/airbnb2.png)
+![Vista Principal](build/img/airbnb3.png)
+![Vista Principal](build/img/airbnb4.png)
+![Vista Móvil](build/img/airbnb5.png)
+![Vista Móvil](build/img/airbnb6.png)
+![Vista Móvil](build/img/airbnb7.png)
+
 ## 📖 Descripción del Proyecto
 
 **Airbnb Clone** es una aplicación web responsiva que replica la interfaz de usuario de Airbnb, desarrollada con las mejores prácticas de desarrollo frontend moderno. La aplicación presenta una interfaz elegante y funcional para la búsqueda de alojamientos, experiencias y destinos turísticos.
